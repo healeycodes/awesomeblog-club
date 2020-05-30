@@ -518,6 +518,21 @@
             ],
             "title": "Franz Neubert: Writing",
             "website": "https://franz.hamburg/writing.html"
+        },
+        {
+            "author": "Andrew Healey",
+            "description": "I'm a software engineer and I enjoy teaching people about code! I write about code, my side projects, and the rest of my life too.",
+            "tags": [
+                "webdev",
+                "javascript",
+                "python",
+                "programming",
+                "software-engineering",
+                "projects",
+                "engineering",
+            ],
+            "title": "healeycodes",
+            "website": "https://healeycodes.com"
         }
     ]
 }
